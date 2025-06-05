@@ -34,16 +34,16 @@
     "ag-grid-community": "^32.0.2",
     "ag-grid-react": "^32.0.2",
     "ansi-to-html": "^0.7.2",
-    "axios": "^1.7.4",
+    "axios": "^1.9.0",
     "base64-js": "^1.5.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
-    "dompurify": "^3.1.5",
+    "dompurify": "^3.2.4",
     "dotenv": "^16.4.5",
     "elkjs": "^0.9.3",
     "emoji-regex": "^10.3.0",
-    "esbuild": "^0.21.5",
+    "esbuild": "^0.25.0",
     "fetch-intercept": "^2.4.0",
     "file-saver": "^2.0.5",
     "framer-motion": "^11.2.10",
@@ -117,7 +117,7 @@
   "proxy": "http://127.0.0.1:7860",
   "devDependencies": {
     "@playwright/test": "^1.44.1",
-    "@swc/cli": "^0.3.12",
+    "@swc/cli": "^0.7.7",
     "@swc/core": "^1.6.1",
     "@tailwindcss/typography": "^0.5.13",
     "@testing-library/jest-dom": "^6.4.6",
@@ -141,6 +141,6 @@
     "tailwindcss-dotted-background": "^1.1.0",
     "typescript": "^5.4.5",
     "ua-parser-js": "^1.0.38",
-    "vite": "^5.4.7"
+    "vite": "^5.4.19"
   }
 }
